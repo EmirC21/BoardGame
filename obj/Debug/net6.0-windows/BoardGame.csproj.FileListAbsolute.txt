@@ -1,0 +1,154 @@
+C:\Users\Aylin\Desktop\BoardGame1\bin\Debug\net6.0-windows\BoardGame.exe
+C:\Users\Aylin\Desktop\BoardGame1\bin\Debug\net6.0-windows\BoardGame.deps.json
+C:\Users\Aylin\Desktop\BoardGame1\bin\Debug\net6.0-windows\BoardGame.runtimeconfig.json
+C:\Users\Aylin\Desktop\BoardGame1\bin\Debug\net6.0-windows\BoardGame.dll
+C:\Users\Aylin\Desktop\BoardGame1\bin\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\Aylin\Desktop\BoardGame1\bin\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.csproj.AssemblyReference.cache
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.Ayarlar.resources
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.Login.resources
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.Main.resources
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.csproj.GenerateResource.cache
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.AssemblyInfoInputs.cache
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.AssemblyInfo.cs
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.dll
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.genruntimeconfig.cache
+C:\Users\Aylin\Desktop\BoardGame1\obj\Debug\net6.0-windows\BoardGame.Properties.Resources.resources
+C:\Users\emir2\Desktop\BoardGame\bin\Debug\net6.0-windows\BoardGame.exe
+C:\Users\emir2\Desktop\BoardGame\bin\Debug\net6.0-windows\BoardGame.deps.json
+C:\Users\emir2\Desktop\BoardGame\bin\Debug\net6.0-windows\BoardGame.runtimeconfig.json
+C:\Users\emir2\Desktop\BoardGame\bin\Debug\net6.0-windows\BoardGame.dll
+C:\Users\emir2\Desktop\BoardGame\bin\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.csproj.AssemblyReference.cache
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.Ayarlar.resources
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.Login.resources
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.Main.resources
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.Properties.Resources.resources
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.csproj.GenerateResource.cache
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.AssemblyInfoInputs.cache
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.AssemblyInfo.cs
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.dll
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\refint\BoardGame.dll
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.genruntimeconfig.cache
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\emir2\Desktop\BoardGame\obj\Debug\net6.0-windows\BoardGame.Kayit.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\bin\Debug\net6.0-windows\BoardGame.exe
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\bin\Debug\net6.0-windows\BoardGame.deps.json
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\bin\Debug\net6.0-windows\BoardGame.runtimeconfig.json
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\bin\Debug\net6.0-windows\BoardGame.dll
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\bin\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\bin\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.csproj.AssemblyReference.cache
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Ayarlar.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Login.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Kayit.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Main.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Admin.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Properties.Resources.resources
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.csproj.GenerateResource.cache
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.AssemblyInfoInputs.cache
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.AssemblyInfo.cs
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.dll
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.genruntimeconfig.cache
+C:\Users\Aylin\Downloads\Yeni klasör\oop-lab-ii\obj\Debug\net6.0-windows\BoardGame.Profil.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.exe
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.deps.json
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.runtimeconfig.json
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.dll
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Ayarlar.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Login.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Kayit.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Main.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Admin.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Profil.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Properties.Resources.resources
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.AssemblyInfo.cs
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.dll
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\refint\BoardGame.dll
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.genruntimeconfig.cache
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\Emir\Desktop\oopLab\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Oyun.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.exe
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.deps.json
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.runtimeconfig.json
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.AssemblyReference.cache
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Ayarlar.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Login.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Kayit.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Main.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Admin.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Oyun.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Profil.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.Properties.Resources.resources
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.GenerateResource.cache
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.AssemblyInfoInputs.cache
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.AssemblyInfo.cs
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\refint\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.genruntimeconfig.cache
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emir2\OneDrive\Masaüstü\Yeni klasör\obj\Debug\net6.0-windows\BoardGame.csproj.CopyComplete
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\BoardGame.exe
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\BoardGame.deps.json
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\BoardGame.runtimeconfig.json
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.csproj.AssemblyReference.cache
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Ayarlar.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Login.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Kayit.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Main.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Admin.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Oyun.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Profil.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Properties.Resources.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.csproj.GenerateResource.cache
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.AssemblyInfoInputs.cache
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.AssemblyInfo.cs
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.csproj.CoreCompileInputs.cache
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.csproj.CopyComplete
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\refint\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.pdb
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.genruntimeconfig.cache
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\ref\BoardGame.dll
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.About.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Yardım.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.M1.resources
+C:\Users\emir2\OneDrive\Masaüstü\yeniklasör2\obj\Debug\net6.0-windows\BoardGame.Server.resources

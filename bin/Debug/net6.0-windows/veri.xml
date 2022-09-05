@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kullanicilar>
+  <kullanici>
+    <KullaniciAdi>lenfer</KullaniciAdi>
+    <Sifre>123456</Sifre>
+    <AdSoyad>emir oğuz</AdSoyad>
+    <TelefonNo>5555</TelefonNo>
+    <Adres>111</Adres>
+    <Sehir>ankara</Sehir>
+    <Ulke>türkiye</Ulke>
+    <Eposta>gmail</Eposta>
+  </kullanici>
+  <kullanici>
+    <KullaniciAdi>member</KullaniciAdi>
+    <Sifre>1234</Sifre>
+    <AdSoyad></AdSoyad>
+    <TelefonNo></TelefonNo>
+    <Adres></Adres>
+    <Sehir></Sehir>
+    <Ulke></Ulke>
+    <Eposta></Eposta>
+  </kullanici>
+  <kullanici>
+    <KullaniciAdi>aylinunal</KullaniciAdi>
+    <Sifre>123</Sifre>
+    <AdSoyad></AdSoyad>
+    <TelefonNo></TelefonNo>
+    <Adres></Adres>
+    <Sehir></Sehir>
+    <Ulke></Ulke>
+    <Eposta></Eposta>
+  </kullanici>
+  <kullanici>
+    <KullaniciAdi>x</KullaniciAdi>
+    <Sifre></Sifre>
+    <AdSoyad></AdSoyad>
+    <TelefonNo></TelefonNo>
+    <Adres></Adres>
+    <Sehir></Sehir>
+    <Ulke></Ulke>
+    <Eposta></Eposta>
+  </kullanici>
+</kullanicilar>
